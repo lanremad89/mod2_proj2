@@ -1,0 +1,79 @@
+
+body {
+    background-image: url("https://travelpast50.com/wp-content/uploads/2015/09/USA-Joshua-tree-California-sunset.jpg");
+    width: 100%;
+    height: 100%;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
+
+nav {
+    background-image: url("https://travelpast50.com/wp-content/uploads/2015/09/USA-Joshua-tree-California-sunset.jpg");
+}
+
+hr {
+    color: white;
+}
+
+.firstdiv {
+    position: relative;
+    width: 100%;
+    padding: 100px;
+    text-align: center;
+    color: white;
+}
+
+.fontfd {
+    font-size: 100px;
+}
+.paddingfd {
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+.btn {
+    padding: 15px 25px;
+}
+
+.seconddiv {
+    position: relative;
+    width: 100%;
+    padding: 100px;
+    text-align: center;
+    color: white;
+    background-color: rgb(100, 187, 100);
+}
+
+.seconddiv img {
+    width: 15%;
+    height: 15%;
+}
+
+.thirddiv {
+    background-color: white;
+    padding: 100px;
+}
+
+.thirddiv img {
+    width: 100%;
+    height: 100%;
+}
+
+.fourthdiv {
+    background-color: rgb(29, 29, 29);
+    padding: 100px;
+    color: white;
+}
+
+.fourthdiv img {
+    width: 100%;
+    height: 100%;
+}
+
+.fifthdiv {
+
+}
+
+.fifthdiv img {
+    width: 70%;
+    height: 70%;
+}
