@@ -32,6 +32,7 @@ hr {
 
 .btn {
     padding: 15px 25px;
+    background-color: limegreen;
 }
 
 .seconddiv {
@@ -40,7 +41,7 @@ hr {
     padding: 100px;
     text-align: center;
     color: white;
-    background-color: rgb(100, 187, 100);
+    background-color: limegreen;
 }
 
 .seconddiv img {
@@ -69,11 +70,63 @@ hr {
     height: 100%;
 }
 
-.fifthdiv {
+/* .fifthdiv {
+    
+} */
 
+.fifthdiv a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
 }
 
-.fifthdiv img {
-    width: 70%;
-    height: 70%;
+.pic1 {
+    background-image: url('https://www.thoughtco.com/thmb/uwWV_EcF4mdQGumbvUxbLgTkQmo=/3865x2174/smart/filters:no_upscale()/student-s-hand-writing-with-pencil-102754792-58a1e2513df78c4758544e01.jpg');
+    height: 200px;
+}
+
+.pic2 {
+    background-image: url('https://thumbs.dreamstime.com/b/man-his-hands-up-concert-his-favorite-group-man-his-hands-up-concert-his-favorite-group-light-147108638.jpg');
+    height: 200px;
+}
+
+.pic3 {
+    background-image: url('https://www.goodtherapy.org/blog/blog/wp-content/uploads/2019/02/woman-holing-phone-over-books.jpg');
+    height: 200px;
+}
+
+.pic1, .pic2, .pic3 {
+	background-size: cover;
+	background-position: 50% 50%;
+	}
+
+.sixthdiv {
+    position: relative;
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+}
+
+.sixthdiv img {
+    width: 10%;
+}
+
+.seventhdiv {
+    position: relative;
+    padding: 100px;
+    text-align: center;
+    color: white;
+    background-color: limegreen;
+}
+
+.seventhdiv img {
+    width: 10%;
+    height: 10%;
+}
+
+footer {
+    position: relative;
+    text-align: center;
+    background-color: white;
+    padding: 30px;
 }
